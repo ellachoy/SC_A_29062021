@@ -1,0 +1,21 @@
+body{
+   
+    margin-top: 100px;
+}
+div{
+    border:grey solid 3px;
+    border-style: shadow;
+    width:50%;
+    margin:0 auto;
+    padding:40px 10px ;
+
+}
+div p{
+background-color: aquamarine;
+border:6px solid black;
+width:450px;
+padding:50px;
+margin:0 auto;
+font-weight: bold;
+/* text-align:center; */
+}
